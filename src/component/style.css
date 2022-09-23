@@ -1,0 +1,11 @@
+.todoBox{
+    width: 230px;
+    margin: auto;
+    border: 1px solid gray;
+}
+input{
+    width: 85%;
+}
+i{
+    font-size: 20px;
+}
